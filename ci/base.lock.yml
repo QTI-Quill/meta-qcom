@@ -13,7 +13,7 @@ overrides:
         meta-virtualization:
             commit: 4e6c583591c1da7e898254dd33eca5cc04c739a9
         meta-audioreach:
-            commit: 75402c8d1ea1203dcf3a63792161f7d5d93946bb
+            commit: 3f20e8c0514a4f4d1386e03633c748e9ee1ac584
         meta-selinux:
             commit: 4904b87b12c51a68efc5b9cd45c7b519fdc48af1
         meta-updater:
